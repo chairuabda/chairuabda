@@ -1,4 +1,4 @@
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:E2E8F0,100:334155&height=100&section=Header" width="100%" />
 
 ![Header](./assets/header.svg)
 <p align="center">
@@ -49,4 +49,4 @@
 ![](https://streak-stats.demolab.com/?user=chairuabda&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=chairuabda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:E2E8F0,100:334155&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:E2E8F0,100:334155&height=100&section=footer" width="100%" />

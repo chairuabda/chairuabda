@@ -3,7 +3,7 @@
 ![Header](./assets/header.svg)
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=2500&color=64748B&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Project+Lead;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&pause=2500&color=64748B&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Project+Lead;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript" />
     
   </a>
 </p>
